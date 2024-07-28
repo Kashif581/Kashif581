@@ -1,4 +1,4 @@
-[![MasterHead](https://blogdatlas.wordpress.com/2020/12/13/introduciendo-al-gobierno-de-datos-investigacion-datlas/)]]
+[![MasterHead](https://blogdatlas.wordpress.com/2020/12/13/introduciendo-al-gobierno-de-datos-investigacion-datlas/)
 <h1 align="center">Hi 👋, I'm Muhammad Kashif Abdullah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
