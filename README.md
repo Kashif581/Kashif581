@@ -1,4 +1,4 @@
-[![MasterHead](https://blogdatlas.wordpress.com/wp-content/uploads/2020/12/datlas_governance.gif?w=1600)
+![MasterHead](https://blogdatlas.wordpress.com/wp-content/uploads/2020/12/datlas_governance.gif?w=1600)
 <h1 align="center">Hi 👋, I'm Muhammad Kashif Abdullah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -21,7 +21,6 @@
 </p>
 
 <h3>GSSOC(24) Badges </h3>
-## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
