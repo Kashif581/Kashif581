@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashif581&label=Profile%20views&color=0e75b6&style=flat" alt="kashif581" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashif581" alt="kashif581" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data & AI**
 
-- 💬 Ask me about **MERAN, React, Data Engineering**
+- 💬 Ask me about **Computer Vision, NLP, Agentic AI**
 
 - 📫 How to reach me **kashifabdullah581@gmail.com**
 
