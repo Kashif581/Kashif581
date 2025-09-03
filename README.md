@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad kashif abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad kashif abdullah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad kashif abdullah" target="[blan](https://www.linkedin.com/in/muhammad-kashif-abdullah-344978235/)k"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad kashif abdullah" height="30" width="40" /></a>
 </p>
 
 <!-- <h3>GSSOC(24) Badges </h3>
